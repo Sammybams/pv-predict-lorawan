@@ -17,4 +17,13 @@ Key ideas:
 
 ---
 
-## Repo structure (recommended)
+## Repo structure
+
+pv-predict-lorawan/
+├─ experimentation/
+│ └─ Forecasting_Faults_in_PV_with_Direct_Recursive_(xgboost).ipynb
+├─ plots/ 
+├─ simulations/
+│ ├─ matlab_code_run.m
+│ └─ SolarLoRaWAN1.slx
+├─ README.md # this file
